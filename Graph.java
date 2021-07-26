@@ -1,24 +1,8 @@
-/* submitted by:
-יהונתן צור
-204617963
-yehonatant1
-
-להב ירדן
-213055882
-Lahavjarden
- */
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
-
-
-/*
-You must NOT change the signatures of classes/methods in this skeleton file.
-You are required to implement the methods of this skeleton file according to the requirements.
-You are allowed to add classes, methods, and members as required.
- */
 /**
  * This class represents a graph that efficiently maintains the heaviest neighborhood over edge addition and
  * vertex deletion.
