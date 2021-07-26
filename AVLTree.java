@@ -1,12 +1,3 @@
-/* submitted by:
-יהונתן צור
-204617963
-yehonatant1
-
-להב ירדן
-213055882
-Lahavjarden
- */
 
 
 
